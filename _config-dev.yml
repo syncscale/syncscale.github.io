@@ -1,8 +1,8 @@
-name: Jekyll Themes
-description: A directory of the best-looking themes for Jekyll blogs
-url: 'http://themes.jekyllrc.org'
+name: SyncScale.com
+description: Website launching soon.
+url: 'https://syncscale.com'
 baseurl: ''
-github: 'https://github.com/jekyllrc/jekyllthemes'
+github: 'https://github.com/syncscale'
 permalink: /:title/
 markdown: rdiscount
 cdn: ''
