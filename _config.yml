@@ -1,6 +1,6 @@
 name: Jekyll Themes
 description: A directory of the best-looking themes for Jekyll blogs
-url: 'http://syncscale.com'
+url: 'https://syncscale.github.io'
 baseurl: ''
 github: 'https://github.com/syncscale'
 permalink: /:title/
